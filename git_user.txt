@@ -1,3 +1,6 @@
+"pwd" #get the local path
+"git status"# get the work status of git repository
+"git diff"# check the difference of the files
 1 initial a git repository
 1.1 git add <file> #can be used several times in order to add more files
 1.2 git commit -m <message> # add a message to describe the files.
