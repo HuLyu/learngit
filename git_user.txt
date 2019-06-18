@@ -12,3 +12,4 @@
 2.2 cat <file>#get the content of file
 2.3 git reset  --hard <version number># reset to specific version
 2.4 git reflog #get the commond used before
+2.5 git checkout -- <file> #reset all the modification in the worktree or stage
