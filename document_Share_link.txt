@@ -1,0 +1,5 @@
+Access to Team Share Best Practices \\DWDF213\SAaP_SolnPrj\ACI_IBP 
+
+Access to Project Share Best Practices (e.g. 1908) \\dwdf213\SAaP_SolnPrj\1272_IBP_V16 
+
+Access to SCM Share \\DWDF213.wdf.sap.corp\SCM-PS 
