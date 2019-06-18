@@ -13,3 +13,12 @@
 2.3 git reset  --hard <version number># reset to specific version
 2.4 git reflog #get the commond used before
 2.5 git checkout -- <file> #reset all the modification in the worktree or stage
+2.6 git reset HEAD <file># reset the modification in the stage to the latest version in repository
+
+3 remove
+git rm <file>
+git commit -m
+
+4 remote repository
+ git remote add origin https://github.com/HuLyu/learngit.git
+ git push -u origin master
