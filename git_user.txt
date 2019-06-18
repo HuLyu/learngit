@@ -22,3 +22,5 @@ git commit -m
 4 remote repository
  git remote add origin https://github.com/HuLyu/learngit.git
  git push -u origin master
+ 
+5 git clone https://github.com/HuLyu/gitskills.git
